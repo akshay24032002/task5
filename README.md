@@ -1,1 +1,1 @@
-# task5
+With the rise of competitive streaming platforms like Amazon Prime, the demand for diverse content libraries is increasing. Platforms are continuously expanding their collections to attract and retain viewers. However, with an ever-growing number of TV shows and movies, streaming services must leverage data-driven insights to optimize their content strategy.
